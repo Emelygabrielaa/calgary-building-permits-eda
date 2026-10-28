@@ -42,7 +42,7 @@ The table is updated frequently, so from Phase 1 onward all results use a dated 
 
 - One row per application, with a unique permit number: about 503,000 rows and 30 columns, from June 1999.
 - The main gaps are the estimated cost (7.8% missing), the area (`totalsqft`, recorded for one permit type only) and issue and completion dates, whose gaps depend on the application status.
-- The audit lists 22 findings in an issues log. Their handling is decided in Phase 1.
+- The audit lists 23 findings in an issues log (the 23rd, very small estimated costs, was found in Phase 1). Their handling is decided in Phase 1.
 
 ## What Phase 1 produced
 
