@@ -11,7 +11,7 @@ Project 1 of 11 in a statistician path. It uses the City of Calgary's building p
 |---|---|---|
 | 0. Data audit | Structure, quality and definitions of the source data | Done |
 | 1. Analysis dataset | Handling of audit issues, selected columns, derived variables, dated snapshot | Done |
-| 2. Analysis | Part A (descriptive) and Part B (formal tests and models), one notebook per question | Pending |
+| 2. Analysis | Part A (descriptive) and Part B (formal tests and models), one notebook per question | In progress |
 | 3. Report | Findings and conclusions | Pending |
 
 ## The five questions
