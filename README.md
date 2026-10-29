@@ -26,7 +26,7 @@ Project 1 of 11 in a statistician path. It uses the City of Calgary's building p
 
 | Question | Notebook | Status |
 |---|---|---|
-| 1. Processing time | `02_q1_processing_time.ipynb` | Pending |
+| 1. Processing time | [`02_q1_processing_time.ipynb`](notebooks/02_q1_processing_time.ipynb) | Done |
 | 2. Project cost | `02_q2_project_cost.ipynb` | Pending |
 | 3. Volume over time | `02_q3_volume_over_time.ipynb` | Pending |
 | 4. Geography | `02_q4_geography.ipynb` | Pending |
