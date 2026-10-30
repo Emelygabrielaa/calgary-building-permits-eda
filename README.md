@@ -75,13 +75,3 @@ url = ("https://raw.githubusercontent.com/Emelygabrielaa/calgary-building-permit
 df = pd.read_parquet(io.BytesIO(requests.get(url).content))
 ```
 
-To use it in R (needs the `arrow` package):
-
-```r
-library(arrow)
-
-url <- paste0("https://raw.githubusercontent.com/Emelygabrielaa/calgary-building-permits-eda/",
-              "main/data/processed/building_permits_processed_2026-10-27.parquet")
-download.file(url, "processed.parquet", mode = "wb")
-df <- read_parquet("processed.parquet")
-```
